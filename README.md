@@ -1,5 +1,5 @@
 # Mercearia
-Projeto em python puro sem DB, usando arquivos txt, com as seguintes funções:
+Projeto em python puro com arquitetura MVC, sem DB, usando arquivos txt, com as seguintes funções:
 - Cadastrar: Produto, Categoria, Cliente, Funcionario, fornecedor, Venda
 - Alterar: Produto, Categoria, Cliente, Funcionario, fornecedor
 - Remover: Produto, Categoria, Cliente, Funcionario, Fornecedor
